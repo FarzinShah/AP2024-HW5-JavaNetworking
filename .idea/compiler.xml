@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AP2024_HW5_Client_V.1.0.2" />
+        <module name="AP2024_testhw5" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AP2024_HW5_Client_V.1.0.2" target="11" />
+      <module name="AP2024_testhw5" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

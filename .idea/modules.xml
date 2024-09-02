@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AP2024_HW5_Client_V.1.0.5/AP2024_HW5_Client_V.1.0.2.iml" filepath="$PROJECT_DIR$/AP2024_HW5_Client_V.1.0.5/AP2024_HW5_Client_V.1.0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AP2024_HW5_Server_V.1.0.5/AP2024_testhw5.iml" filepath="$PROJECT_DIR$/AP2024_HW5_Server_V.1.0.5/AP2024_testhw5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HW5_AP.iml" filepath="$PROJECT_DIR$/.idea/HW5_AP.iml" />
+    </modules>
+  </component>
+</project>
